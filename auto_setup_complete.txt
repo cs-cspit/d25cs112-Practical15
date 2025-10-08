@@ -1,0 +1,5 @@
+Auto-setup completed on 2025-10-02 18:37:18
+Database: foodies
+Tables: users, food_items
+Food Items: 57
+Default Users: admin/admin123, testuser/test123
